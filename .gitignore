@@ -1,0 +1,8 @@
+# Build outputs are committed intentionally (site is static and local-first);
+# ignore only OS/editor noise and Python caches.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.swp
+*~
